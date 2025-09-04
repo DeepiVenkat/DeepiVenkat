@@ -1,12 +1,4 @@
-- 👋 Hi, I’m Deepika Data Analyst
-![alt text](<my _image.jpeg>)
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-DeepiVenkat/DeepiVenkat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👩‍💻 Aspiring Data Analyst | 📊 Skilled in Python, SQL, Excel, and Power BI
+🎯 Passionate about turning raw data into meaningful insights
+📚 Always learning and improving through projects and real-world applications
+🤝 Open to collaboration and contributing to data-driven solutions
